@@ -1,0 +1,13 @@
+{
+  "name": "async-unsucked",
+  "version": "1.0.0",
+  "description": "Simplify the usage of async, await and Promise",
+  "main": "./lib/main.js",
+  "types": "./lib/main.d.ts",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ohad Baehr",
+  "license": "MIT"
+}
