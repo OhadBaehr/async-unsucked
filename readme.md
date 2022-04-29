@@ -90,7 +90,7 @@ A simple, tiny, 0 dependency library to simplify the usage of asynchronous opera
 |`async.wrap(func: Function)`|Wraps the return value of a function with `async()`|
 |`async.all(promises: Promise[])`| Same as Promise.all but supports objects aswell. |
 |`async.allSettled(promises: Promise[])`|Same as Promise.allSettled but supports objects aswell.|
-|`async.race(promises: Promise[])` | * Same as Promise.race but supports objects aswell. |
+|`async.race(promises: Promise[])` | Same as Promise.race but supports objects aswell. |
 |`async.map(arr: Promise[], callback: Function)` | Map async iterator.|
 
 
