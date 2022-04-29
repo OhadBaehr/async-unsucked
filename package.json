@@ -1,6 +1,6 @@
 {
   "name": "async-unsucked",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "Simplify the usage of async, await and Promise",
   "main": "./lib/main.js",
   "types": "./lib/main.d.ts",
@@ -8,6 +8,20 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OhadBaehr/async-unsucked.git"
+  },
+  "bugs": {
+    "url": "https://github.com/OhadBaehr/async-unsucked/issues"
+  },
+  "homepage": "https://github.com/OhadBaehr/async-unsucked#readme",
   "author": "Ohad Baehr",
-  "license": "MIT"
+  "license": "MIT",
+  "keywords": [
+    "async",
+    "await",
+    "async-unsucked",
+    "promise"
+  ]
 }
